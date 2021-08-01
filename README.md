@@ -20,6 +20,7 @@ Buyer of real estate can find contacts of seller. In case seller enabled online 
 - [Cloudinary](https://cloudinary.com/)
 - [Cloudinary-React](https://cloudinary.com/documentation/react_integration)
 
+
 ## Main goals of this project:
 
 - Create Full Stack App independently
@@ -39,18 +40,16 @@ Buyer of real estate can find contacts of seller. In case seller enabled online 
 
 ## Installation & Setup Guide
 
-- git clone git@github.com:jkarelins/real-estate-site.git
+- git clone https://github.com/Pavelbiswas/real-estate-site.git
 - cd real-estate-site
 - npm install
 - npm run start
-
-**_To run on local machine, API server should run on same local machine, using port: 4000_**
 
 ## App Screens
 
 #### User Roles
 
-![User Roles](https://github.com/real-estate-site/blob/master/images/ready-screens/manager-agent-roles.gif?raw=true)
+![User Roles](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/manager-agent-roles.gif?raw=true)
 
 - Manager of Company can activate and suspend accounts of company agents.
 - Company Agent can not log in to site, after registration (while manager have not confirmed account)
@@ -59,41 +58,30 @@ Buyer of real estate can find contacts of seller. In case seller enabled online 
 
 #### Top Up Balance using Stripe
 
-![Top Up Balance using Stripe](https://github.com/real-estate-site/blob/master/images/ready-screens/top-up-balance-stripe.gif?raw=true)
+![Top Up Balance using Stripe](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/top-up-balance-stripe.gif?raw=true)
 
 #### One step to add your Advertisement
 
-![One step to add your Advertisement](https://github.com/real-estate-site/blob/master/images/ready-screens/Easy-to-add-advert.gif)
+![One step to add your Advertisement](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/Easy-to-add-advert.gif?raw=true)
 
 #### Upload Images to your Advertisement
 
-![Upload Images to your Advertisement](https://github.com/real-estate-site/blob/master/images/ready-screens/image-upload.gif?raw=true)
+![Upload Images to your Advertisement](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/image-upload.gif?raw=true)
 
 #### Add Extras to your Advertisement & Check finished Advertisement
 
-![Add Extras to your Advertisement & Check finished Advertisement](https://github.com/real-estate-site/blob/master/images/ready-screens/add-extras+overview.gif?raw=true)
+![Add Extras to your Advertisement & Check finished Advertisement](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/add-extras%2Boverview.gif?raw=true)
 
 #### Check Main Page & Search for Advertisements
 
-![Check Main Page & Search for Advertisements](https://github.com/real-estate-site/blob/master/images/ready-screens/main-page&search.gif?raw=true)
+![Check Main Page & Search for Advertisements](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/ready-screens/main-page%26search.gif?raw=true)
 
-## Basic Mockups for Project
-
-#### Image of Single advertisement page
-
-![Image of Single advertisement page](https://github.com/real-estate-site/blob/master/images/One_Advertisement_page.png?raw=true)
-
-#### Image of Search Page
-
-![Image of Search Page](https://github.com/real-estate-site/blob/master/images/Search_page.png?raw=true)
-
----
 
 # Datastructure for db
 
 #### Advertisement
 
-![Advertisement data structure](https://github.com/real-estate-site/blob/master/images/advert-data-table.png?raw=true)
+![Advertisement data structure](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/advert-data-table.png?raw=true)
 
 - isForSale: Boolean,
 - isForRent: Boolean,
@@ -133,7 +121,7 @@ phoneNumber: Text,
 
 #### User roles
 
-![User Roles](https://github.com/real-estate-site/blob/master/images/user-roles-updated.png?raw=true)
+![User Roles](https://github.com/Pavelbiswas/real-estate-site/blob/master/images/user-roles-updated.png?raw=true)
 
 ## Calendar
 
